@@ -1,0 +1,6 @@
+Show.create(name: "South Park", network: "Comedy Central", day: "Thursday", rating: 10, season: "45")
+Show.create(name: "SNL", network: "NBC", day: "Saturday", rating: 10, season: "50")
+Show.create(name: "Mandalorian", network: "Disney", day: "Monday", rating: 8, season: "2")
+Show.create(name: "The Suite Life of Zac and Cody", network: "Disney", day: "Wednesday", rating: 8, season: "10")
+Show.create(name: "Fairly Odd Parents", network: "Nickelodian", day: "Thursday", rating: 9, season: "6")
+Show.create(name: "Selling Sunset", network: "Netflix", day: "Thursday", rating: 1, season: "2")
